@@ -2,8 +2,8 @@
 ![Package Version](https://img.shields.io/badge/version-1.0.9.1-pink)
 ![Downloads](https://pepy.tech/badge/qdesc)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![Socket Badge](https://badge.socket.dev/pypi/package/qdesc/1.0.8.8?artifact_id=tar-gz)
-![DOI](https://zenodo.org/badge/990715642.svg)](https://doi.org/10.5281/zenodo.15834554)
+[![Socket Badge](https://badge.socket.dev/pypi/package/qdesc/1.0.8.8?artifact_id=tar-gz)](https://badge.socket.dev/pypi/package/qdesc/1.0.8.8?artifact_id=tar-gz)
+[![DOI](https://zenodo.org/badge/990715642.svg)](https://doi.org/10.5281/zenodo.15834554)
 ![License: GPL v3.0](https://img.shields.io/badge/license-GPL%20v3.0-blue)
 
 ## <font face = 'Calibri' color = '#274472' >  Installation </font>
