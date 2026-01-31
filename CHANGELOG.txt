@@ -82,3 +82,12 @@ Change Log
 -------------------
 1.0.9.2 (1/30/2026)
 - fixed the missing icon QDesc readme
+-------------------
+1.0.9.3 (1/30/2026)
+- fixed the missing icon QDesc readme
+-------------------
+1.0.9.4 (1/31/2026)
+- introduced docstrings for purposive data visualizations
+-------------------
+1.0.9.5 (1/31/2026)
+- updated the Readme file
