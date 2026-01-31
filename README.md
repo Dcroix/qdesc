@@ -6,7 +6,7 @@
 [![DOI](https://zenodo.org/badge/990715642.svg)](https://doi.org/10.5281/zenodo.15834554)
 ![License: GPL v3.0](https://img.shields.io/badge/license-GPL%20v3.0-pink)
 
-## <font face = 'Calibri' color = '#274472' >  Installation </font>
+## <font face = 'Calibri' color = '#274472' >  Installation via Anaconda Prompt </font>
 ```sh
 pip install qdesc
 ```
