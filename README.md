@@ -15,8 +15,7 @@ pip install qdesc
 Qdesc is a package for quick and easy descriptive analysis. It is a powerful Python package designed for quick and easy descriptive analysis of quantitative data. It provides essential statistics like mean and standard deviation for normal distribution and median and raw median absolute deviation for skewed data. With built-in functions for frequency distributions, users can effortlessly analyze categorical variables and export results to a spreadsheet. The package also includes a normality check dashboard, featuring Anderson-Darling statistics and visualizations like histograms and Q-Q plots. The recent version includes functions that simplifies creating purposive data visualizations using Python. It scored 100/100 on Socket.dev for security, quality, maintenance, and licensing. Whether you're handling structured datasets or exploring statistical trends, qdesc streamlines the process with efficiency and clarity. 
 
 Recent Updates:  
-Version 1.0.9.6: Updated the qd.desc() function to use the SciPy "interpolate" method for Anderson-Darling p-value calculation, ensuring compatibility with SciPy => 1.17.  
-                 Users no longer need to manually compare Anderson-Darling statistics with critical values; p-value is now returned directly.  
+Version 1.0.9.6: Updated the qd.desc() function to use the SciPy "interpolate" method for Anderson-Darling p-value calculation, ensuring compatibility with SciPy => 1.17. Users no longer need to manually compare Anderson-Darling statistics with critical values; p-value is now returned directly.  
 Version 1.0.9.5: Updated the Readme file.  
 Version 1.0.9.4: Introduced docstrings for purposive data visualizations.  
 Version 1.0.9.1: Provided docstrings for descriptive statistics functions. See them via function? (i.e., qd.desc?)  
