@@ -11,6 +11,11 @@
 pip install qdesc
 ```
 
+## <font face = 'Calibri' color = '#274472' >  Update to recent version (for existing users) via Anaconda Prompt </font>
+```sh
+pip install --upgrade qdesc
+```
+
 ## <font face = 'Calibri' color = '#274472' >  Overview </font>
 Qdesc is a package for quick and easy descriptive analysis. It is a powerful Python package designed for quick and easy descriptive analysis of quantitative data. It provides essential statistics like mean and standard deviation for normal distribution and median and raw median absolute deviation for skewed data. With built-in functions for frequency distributions, users can effortlessly analyze categorical variables and export results to a spreadsheet. The package also includes a normality check dashboard, featuring Anderson-Darling statistics and visualizations like histograms and Q-Q plots. The recent version includes functions that simplifies creating purposive data visualizations using Python. It scored 100/100 on Socket.dev for security, quality, maintenance, and licensing. Whether you're handling structured datasets or exploring statistical trends, qdesc streamlines the process with efficiency and clarity. 
 
@@ -24,7 +29,14 @@ Recent Updates:
 **Version 1.0.9.1:** Provided docstrings for descriptive statistics functions. See them via function? (i.e., qd.desc?)  
 **Version 1.0.8.8:** QDesc introduces three new visualization functions designed to make column, bar, and line charts more intentional and expressive.  
 
-
+### Version 1.0.9.9 works with the following libraries:
+- pandas>=3.0.0  
+- numpy>=2.4.2  
+- scipy>=1.17  
+- seaborn>=0.13.2  
+- matplotlib>=3.10.8  
+- statsmodels>=0.14.6
+  
 [Read More Here](https://pypi.org/project/qdesc/#description)
 
   
