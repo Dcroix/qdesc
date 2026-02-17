@@ -1,4 +1,4 @@
-# 📈  QSesc : Quick and Easy Descriptive Analysis
+# 📈  QDesc : Quick and Easy Descriptive Analysis
 ![Package Version](https://img.shields.io/badge/version-1.0.9.9-pink)
 ![Downloads](https://pepy.tech/badge/qdesc)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
