@@ -30,10 +30,6 @@ Recent Updates:
 **Version 1.0.9.8:** Fixed the README to show the image of the updated qd.normcheck_dashboard() function.
 **Version 1.0.9.7:** Updated the README to reflect the changes in the outputs of qd.desc(), qd.grp_desc(), and qd.normcheck_dashboard() functions.  
 **Version 1.0.9.6:** Updated the qd.desc(), qd.grp_desc(), and qd.normcheck_dashboard() function to use the SciPy "interpolate" method for Anderson-Darling p-value calculation, ensuring compatibility with SciPy => 1.17. Users no longer need to manually compare Anderson-Darling statistics with critical values; p-value is now returned directly.  
-**Version 1.0.9.5:** Updated the Readme file.  
-**Version 1.0.9.4:** Introduced docstrings for purposive data visualizations.  
-**Version 1.0.9.1:** Provided docstrings for descriptive statistics functions. See them via function? (i.e., qd.desc?)  
-**Version 1.0.8.8:** QDesc introduces three new visualization functions designed to make column, bar, and line charts more intentional and expressive.  
 
 ### Version 1.1.1 works with the following libraries:
 - pandas>=3.0.0  
