@@ -22,18 +22,23 @@ Qdesc is a package for quick and easy descriptive analysis. It is a powerful Pyt
 Recent Updates:  
 **Version 1.1.1:**
 - Fixed the following: qd.purvis_bar function to return fig, ax for easy image save.  
-- Fixed the QDesc ReadMe file.  
+- Fixed the QDesc ReadMe file.
+
 **Version 1.1.0:**
 - Introduced two new functions, purvis_rose and purvis_bubble, to create purposive rose charts and bubble charts respectively.  
 - Updated the docstring and provided specific details on the Return section for purposive data visualization functions.  
 - Updated data visualization functions to return fig, ax for easy image save using: fig.savefig("datavis.png", dpi=300).  
-- Provided a link to available QDesc Color Palettes in said section of this Read Me.  
+- Provided a link to available QDesc Color Palettes in said section of this Read Me.
+
 **Version 1.0.9.9:**
-- Updated dependency versions to ensure compatibility and prevent import errors with recent scipy releases.  
+- Updated dependency versions to ensure compatibility and prevent import errors with recent scipy releases.
+
 **Version 1.0.9.8:**
 - Fixed the README to show the image of the updated qd.normcheck_dashboard() function.
+
 **Version 1.0.9.7:**
-- Updated the README to reflect the changes in the outputs of qd.desc(), qd.grp_desc(), and qd.normcheck_dashboard() functions.  
+- Updated the README to reflect the changes in the outputs of qd.desc(), qd.grp_desc(), and qd.normcheck_dashboard() functions.
+ 
 **Version 1.0.9.6:**
 - Updated the qd.desc(), qd.grp_desc(), and qd.normcheck_dashboard() function to use the SciPy "interpolate" method for Anderson-Darling p-value calculation, ensuring compatibility with SciPy => 1.17. Users no longer need to manually compare Anderson-Darling statistics with critical values; p-value is now returned directly.  
 
