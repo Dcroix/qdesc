@@ -33,14 +33,10 @@ Qdesc is a package for quick and easy descriptive analysis. It is a powerful Pyt
 **Version 1.0.9.9:**
 - Updated dependency versions to ensure compatibility and prevent import errors with recent scipy releases.
 
-**Version 1.0.9.8:**
-- Fixed the README to show the image of the updated qd.normcheck_dashboard() function.
-
-**Version 1.0.9.7:**
-- Updated the README to reflect the changes in the outputs of qd.desc(), qd.grp_desc(), and qd.normcheck_dashboard() functions.
- 
-**Version 1.0.9.6:**
-- Updated the qd.desc(), qd.grp_desc(), and qd.normcheck_dashboard() function to use the SciPy "interpolate" method for Anderson-Darling p-value calculation, ensuring compatibility with SciPy => 1.17. Users no longer need to manually compare Anderson-Darling statistics with critical values; p-value is now returned directly.  
+## <font face = 'Calibri' color = '#274472' > QDesc Function Demonstrations </font>
+* [QDesc Descriptive Functions and Normality Testing Sample One](https://github.com/Dcroix/qdesc/blob/main/Qdesc%20Demo%20Notebook%20One.ipynb) *(right-click → Open in new tab)*
+* [QDesc Descriptive Functions and Normality Testing Sample Two](https://github.com/Dcroix/qdesc/blob/main/Qdesc%20Demo%20Notebook%20Two.ipynb) *(right-click → Open in new tab)*
+* [QDesc Purposive Data Visualization Samples](https://github.com/Dcroix/qdesc/blob/main/Qdesc%20Demo%20Notebook%20Three.ipynb) *(right-click → Open in new tab)*
 
 ### Version 1.1.1 works with the following libraries:
 - pandas>=3.0.0  
