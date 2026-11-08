@@ -1,5 +1,5 @@
 # 📈  QDesc : Quick and Easy Descriptive Analysis
-![Package Version](https://img.shields.io/badge/version-1.1.1-pink)
+![Package Version](https://img.shields.io/badge/version-1.1.2-pink)
 ![Downloads](https://pepy.tech/badge/qdesc)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 [![Socket Badge](https://badge.socket.dev/pypi/package/qdesc/1.0.9.5?artifact_id=tar-gz)](https://badge.socket.dev/pypi/package/qdesc/1.0.9.5?artifact_id=tar-gz)
